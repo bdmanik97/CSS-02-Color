@@ -1,0 +1,74 @@
+	*{
+		background-color: skyblue;
+	}
+
+
+	.heading1{
+		color: blue;
+		text-decoration: overline;
+	}
+
+	.heading2{
+		color: green;
+		text-decoration: underline;
+	}
+
+	#heading3{
+		color: skyblue;
+	}
+
+/*RGB Color*/
+	h1{
+		color: rgb(0, 250, 0);
+	}
+
+	h2{
+		color: rgb(255, 0, 0);
+	}
+
+	h3{
+		color: rgb(0, 0, 255);
+	}
+
+	h4{
+		color: rgb(150, 250, 100);
+	}
+
+/*HEX Color*/
+	.heading4{
+		color: #0506ff;
+
+	}
+
+	.text1{
+		color: rgb(250, 100, 150);
+		text-align: left;
+		font-weight: bolder;
+	}
+
+	.text{
+		color: blue;
+		text-align: right;
+		font-family: arial;
+	}
+
+	.heading10{
+		color: red;
+		text-decoration: underline dotted;
+	}
+
+	.heading9{
+		color: blue;
+		text-decoration: underline dotted;
+	}
+
+	.heading8{
+		color: yellow;
+		text-decoration: green wavy underline;
+	}
+
+	.heading7{
+		color: rgb(50, 100, 230);
+		text-decoration: underline overline;
+	}
+
